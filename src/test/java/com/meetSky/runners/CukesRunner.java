@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/meetSky/step_definitions",
         dryRun = false,
-        tags = "@MESK-265",
+        tags = "@MESK-374",
         publish = false
 
 )
